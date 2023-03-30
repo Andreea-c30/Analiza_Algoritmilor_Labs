@@ -29,8 +29,8 @@ graph2 = {
   '9': ['10'],
   '10': []
 }
-
-root1=25
+ #define the starting node
+root1=5
 root2=1
 
 visited1 = set()
